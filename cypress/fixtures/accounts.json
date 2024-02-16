@@ -1,0 +1,16 @@
+{
+    "withRewardsCurbside": {
+        "email": "automationwithrewards@gmail.com",
+        "password": "Test1234!"
+    },
+
+    "withRewardsDelivery": {
+        "email": "automationwithrewardsrelivery@gmail.com",
+        "password": "Test1234!"
+    },
+
+    "withoutRewards": {
+        "email": "automationnorewards@gmail.com",
+        "password": "Test1234!"
+    }
+}
