@@ -24,5 +24,5 @@ This application goals is to ensure quality with Cypress
 | Stack                                                                                      | Version |
 |--------------------------------------------------------------------------------------------|---------|
 | [Java](https://jdk.java.net/archive/)                                                      | 17      |
-| [Cypress]                                                                                  | 13.6.6  |
+| Cypress                                                                                    | 13.6.6  |
 | [Website](https://ge.globo.com/motor/formula-1/)                                           |         |
